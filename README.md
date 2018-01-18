@@ -1,9 +1,7 @@
 # test
 testtest
-testtest2
-<<<<<<< HEAD
-I love github
-=======
+testtest2 
+I love github 
 resolve
 create develop branch
->>>>>>> remotes/origin/develop
+ 
